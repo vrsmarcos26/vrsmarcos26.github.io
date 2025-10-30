@@ -1,6 +1,5 @@
 # Portfólio Pessoal - Marcos Vinícius (vrsmarcos26)
 
-![Mostruário do Portfólio](https://i.imgur.com/link-da-sua-imagem.png)
 ## 🚀 Sobre o Projeto
 
 Este é o meu portfólio pessoal, desenvolvido do zero com o objetivo de ser uma vitrine moderna, dinâmica e profissional para meus projetos, habilidades e experiências. O site foi construído utilizando apenas **HTML, CSS e JavaScript puros (Vanilla JS)**, sem o uso de frameworks, para demonstrar um conhecimento sólido das tecnologias fundamentais da web.
