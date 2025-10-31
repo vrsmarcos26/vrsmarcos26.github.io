@@ -53,29 +53,34 @@ const config = {
         certificationsTitle: "Cursos e Certificações",
         certifications: [
             {
-                title: "Python para Data Science",
-                issuer: "Alura",
-                icon: "fa-solid fa-microchip" // Ícone de IA/Data Science
-            },
-            {
                 title: "Ethical Hacking Essencial",
                 issuer: "Udemy",
                 icon: "fa-solid fa-shield-halved" // Ícone de segurança
             },
             {
-                title: "Pentest em Redes e Sistemas",
-                issuer: "Solyd",
-                icon: "fa-solid fa-network-wired" // Ícone de redes
+                title: "Android Pentester - SYAP",
+                issuer: "Solyd Offensive Security",
+                icon: "fa-brands fa-android" // Ícone de android
             },
             {
-                title: "Desenvolvimento Web com React",
+                title: "Wireless Pentester - SYWP",
+                issuer: "Solyd Offensive Security",
+                icon: "fa-solid fa-wifi" // Ícone de wifi
+            },
+            {
+                title: "Formação Segurança Ofensive",
                 issuer: "Alura",
-                icon: "fa-brands fa-react" // Ícone do React
+                icon: "fa-solid fa-shield-halved" // Ícone do segurança
             },
             {
-                title: "Docker para Desenvolvedores",
-                issuer: "Udemy",
-                icon: "fa-brands fa-docker" // Ícone do Docker
+                title: "Formação WordPress: crie sites do zero",
+                issuer: "Alura",
+                icon: "fa-brands fa-wordpress" // Ícone do WordPress
+            },
+            {
+                title: "Curso Espicífico de Inglês",
+                issuer: "Centro Interescolar de Línguas 01 de Brasília",
+                icon: "fa-solid fa-language" // Ícone do language
             }
         ],
 
@@ -257,4 +262,5 @@ const config = {
             instagram: "https://www.instagram.com/_marcos.vrs"
         }
     }
+
 };
