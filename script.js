@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // 2. Limpa e preenche com os novos cards traduzidos
             gliderContainer.innerHTML = '';
             content.certifications.forEach(cert => {
-                const certCard = document.createElement('a'); // Mude de 'div' para 'a'
+                const certCard = document.createElement('a');
                 certCard.href = cert.link; // Pega o link do config
                 certCard.target = "_blank"; // Abre em uma nova aba
                 certCard.rel = "noopener noreferrer"; // Boa prática de segurança
@@ -211,3 +211,4 @@ document.addEventListener('DOMContentLoaded', () => {
     setLanguage(initialLang);
 
 });
+
