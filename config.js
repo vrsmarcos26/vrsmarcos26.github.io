@@ -123,6 +123,18 @@ const config = {
                 issuer: "CISCO",
                 icon: "fa-solid fa-bug", // Cyber threat icon (BUG)
                 link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Hacker Ético",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-halved",
+                link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Noções de rede",
+                issuer: "CISCO",
+                icon: "fa-solid fa-wifi",
+                link: "https://www.credly.com/users/vrsmarcos26"
             }
         ],
 
@@ -294,6 +306,18 @@ const config = {
                 issuer: "CISCO",
                 icon: "fa-solid fa-bug", // Cyber threat icon
                 link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Ethical Hacker",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-halved",
+                link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Networking Basics",
+                issuer: "CISCO",
+                icon: "fa-solid fa-wifi",
+                link: "https://www.credly.com/users/vrsmarcos26"
             }
         ],
 
@@ -353,6 +377,7 @@ const config = {
     }
 
 };
+
 
 
 
