@@ -205,6 +205,26 @@ const config = {
                 title: "Docker for Developers",
                 issuer: "Udemy",
                 icon: "fa-brands fa-docker"
+            },
+            {
+                "title": "Segurança de Endpoint",
+                "issuer": "CISCO",
+                "icon": "fa-brands fa-shield-alt"
+            },
+            {
+                "title": "Defesa de Rede",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-shield-alt"
+            },
+            {
+                "title": "Percurso de Cibersegurança",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-shield-halved"
+            },
+            {
+                "title": "Introdução à Cibersegurança",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-lock"
             }
         ],
 
@@ -264,3 +284,4 @@ const config = {
     }
 
 };
+
