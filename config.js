@@ -55,52 +55,62 @@ const config = {
             {
                 title: "Ethical Hacking Essencial",
                 issuer: "Udemy",
-                icon: "fa-solid fa-shield-halved" // Ícone de segurança
+                icon: "fa-solid fa-shield-halved", // Ícone de segurança
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Android Pentester - SYAP",
                 issuer: "Solyd Offensive Security",
-                icon: "fa-brands fa-android" // Ícone de android
+                icon: "fa-brands fa-android", // Ícone de android
+                link: "https://solyd.com.br/ead/pentest/certificate/FppwmARG3V/"
             },
             {
                 title: "Wireless Pentester - SYWP",
                 issuer: "Solyd Offensive Security",
-                icon: "fa-solid fa-wifi" // Ícone de wifi
+                icon: "fa-solid fa-wifi", // Ícone de wifi
+                link: "https://solyd.com.br/ead/pentest/certificate/T0ILPNK1vs/"
             },
             {
                 title: "Formação Segurança Ofensive",
                 issuer: "Alura",
-                icon: "fa-solid fa-shield-halved" // Ícone do segurança
+                icon: "fa-solid fa-shield-halved", // Ícone do segurança
+                link: "https://cursos.alura.com.br/degree/certificate/02d37e35-15c1-42a8-8141-4c733bd2c9ff"
             },
             {
                 title: "Formação WordPress: crie sites do zero",
                 issuer: "Alura",
-                icon: "fa-brands fa-wordpress" // Ícone do WordPress
+                icon: "fa-brands fa-wordpress", // Ícone do WordPress
+                link: "https://cursos.alura.com.br/degree/certificate/eb6b8bd7-8d49-4a38-9b8d-bae284c8a970"
             },
             {
                 title: "Curso Espicífico de Inglês",
                 issuer: "Centro Interescolar de Línguas 01 de Brasília",
-                icon: "fa-solid fa-language" // Ícone do language
+                icon: "fa-solid fa-language", // Ícone do language
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Segurança de Endpoint",
                 issuer: "CISCO",
-                icon: "fa-solid fa-shield-alt" // Ícone do segurança
+                icon: "fa-solid fa-shield-alt", // Ícone do segurança
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Defesa de Rede",
                 issuer: "CISCO",
-                icon: "fa-solid fa-shield-alt" // Ícone do segurança
+                icon: "fa-solid fa-shield-alt", // Ícone do segurança
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Percurso de Cibersegurança",
                 issuer: "CISCO",
-                icon: "fa-solid fa-shield-halved" // Ícone do segurança
+                icon: "fa-solid fa-shield-halved", // Ícone do segurança
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Introdução à Cibersegurança",
                 issuer: "CISCO",
-                icon: "fa-solid fa-lock" // Ícone de cadeado
+                icon: "fa-solid fa-lock", // Ícone de cadeado
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             }
         ],
 
@@ -204,52 +214,62 @@ const config = {
             {
                 title: "Essential Ethical Hacking",
                 issuer: "Udemy",
-                icon: "fa-solid fa-shield-halved" // Security icon
+                icon: "fa-solid fa-shield-halved", // Security icon
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Android Pentester - SYAP",
                 issuer: "Solyd Offensive Security",
-                icon: "fa-brands fa-android" // Android icon
+                icon: "fa-brands fa-android", // Android icon
+                link: "https://solyd.com.br/ead/pentest/certificate/FppwmARG3V/"
             },
             {
                 title: "Wireless Pentester - SYWP",
                 issuer: "Solyd Offensive Security",
-                icon: "fa-solid fa-wifi" // Wi-Fi icon
+                icon: "fa-solid fa-wifi", // Wi-Fi icon
+                link: "https://solyd.com.br/ead/pentest/certificate/T0ILPNK1vs/"
             },
             {
                 title: "Offensive Security Training",
                 issuer: "Alura",
-                icon: "fa-solid fa-shield-halved" // Security icon
+                icon: "fa-solid fa-shield-halved", // Security icon
+                link: "https://cursos.alura.com.br/degree/certificate/02d37e35-15c1-42a8-8141-4c733bd2c9ff"
             },
             {
                 title: "WordPress Training: Build Websites from Scratch",
                 issuer: "Alura",
-                icon: "fa-brands fa-wordpress" // WordPress icon
+                icon: "fa-brands fa-wordpress", // WordPress icon
+                link: "https://cursos.alura.com.br/degree/certificate/eb6b8bd7-8d49-4a38-9b8d-bae284c8a970"
             },
             {
                 title: "Specific English Course",
                 issuer: "Centro Interescolar de Línguas 01 de Brasília",
-                icon: "fa-solid fa-language" // Language icon
+                icon: "fa-solid fa-language", // Language icon
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Endpoint Security",
                 issuer: "CISCO",
-                icon: "fa-solid fa-shield-alt" // Security icon
+                icon: "fa-solid fa-shield-alt", // Security icon
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Network Defense",
                 issuer: "CISCO",
-                icon: "fa-solid fa-shield-alt" // Security icon
+                icon: "fa-solid fa-shield-alt", // Security icon
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Cybersecurity Pathway",
                 issuer: "CISCO",
-                icon: "fa-solid fa-shield-halved" // Security icon
+                icon: "fa-solid fa-shield-halved", // Security icon
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             },
             {
                 title: "Introduction to Cybersecurity",
                 issuer: "CISCO",
-                icon: "fa-solid fa-lock" // Lock icon
+                icon: "fa-solid fa-lock", // Lock icon
+                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
             }
 
         ],
