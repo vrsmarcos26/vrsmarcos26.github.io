@@ -92,25 +92,37 @@ const config = {
                 title: "Segurança de Endpoint",
                 issuer: "CISCO",
                 icon: "fa-solid fa-shield-alt", // Ícone do segurança
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
             },
             {
                 title: "Defesa de Rede",
                 issuer: "CISCO",
                 icon: "fa-solid fa-shield-alt", // Ícone do segurança
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
             },
             {
                 title: "Percurso de Cibersegurança",
                 issuer: "CISCO",
                 icon: "fa-solid fa-shield-halved", // Ícone do segurança
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
             },
             {
                 title: "Introdução à Cibersegurança",
                 issuer: "CISCO",
                 icon: "fa-solid fa-lock", // Ícone de cadeado
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Dispositivos de Rede e Configuração Inicial",
+                issuer: "CISCO",
+                icon: "fa-solid fa-network-wired", // icon wireless
+                link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Gerenciamento de Ameaças Cibernéticas",
+                issuer: "CISCO",
+                icon: "fa-solid fa-bug", // Cyber threat icon (BUG)
+                link: "https://www.credly.com/users/vrsmarcos26"
             }
         ],
 
@@ -251,27 +263,38 @@ const config = {
                 title: "Endpoint Security",
                 issuer: "CISCO",
                 icon: "fa-solid fa-shield-alt", // Security icon
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
             },
             {
                 title: "Network Defense",
                 issuer: "CISCO",
                 icon: "fa-solid fa-shield-alt", // Security icon
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
             },
             {
                 title: "Cybersecurity Pathway",
                 issuer: "CISCO",
                 icon: "fa-solid fa-shield-halved", // Security icon
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
             },
             {
                 title: "Introduction to Cybersecurity",
                 issuer: "CISCO",
                 icon: "fa-solid fa-lock", // Lock icon
-                link: "https://www.linkedin.com/in/vrsmarcos26/details/certifications/"
+                link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Networking Devices and Initial Configuration",
+                issuer: "CISCO",
+                icon: "fa-solid fa-network-wired", // Network icon
+                link: "https://www.credly.com/users/vrsmarcos26"
+            },
+            {
+                title: "Cyber Threat Management",
+                issuer: "CISCO",
+                icon: "fa-solid fa-bug", // Cyber threat icon
+                link: "https://www.credly.com/users/vrsmarcos26"
             }
-
         ],
 
         // --- Experience Section ---
