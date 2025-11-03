@@ -81,6 +81,26 @@ const config = {
                 title: "Curso Espicífico de Inglês",
                 issuer: "Centro Interescolar de Línguas 01 de Brasília",
                 icon: "fa-solid fa-language" // Ícone do language
+            },
+            {
+                "title": "Segurança de Endpoint",
+                "issuer": "CISCO",
+                "icon": "fa-brands fa-shield-alt"
+            },
+            {
+                "title": "Defesa de Rede",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-shield-alt"
+            },
+            {
+                "title": "Percurso de Cibersegurança",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-shield-halved"
+            },
+            {
+                "title": "Introdução à Cibersegurança",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-lock"
             }
         ],
 
@@ -207,22 +227,22 @@ const config = {
                 icon: "fa-brands fa-docker"
             },
             {
-                "title": "Segurança de Endpoint",
-                "issuer": "CISCO",
-                "icon": "fa-brands fa-shield-alt"
-            },
-            {
-                "title": "Defesa de Rede",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-shield-alt"
-            },
-            {
-                "title": "Percurso de Cibersegurança",
+                "title": "Endpoint Security",
                 "issuer": "CISCO",
                 "icon": "fa-solid fa-shield-halved"
             },
             {
-                "title": "Introdução à Cibersegurança",
+                "title": "Network Defense",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-network-wired"
+            },
+            {
+                "title": "Cybersecurity Pathway",
+                "issuer": "CISCO",
+                "icon": "fa-solid fa-user-shield"
+            },
+            {
+                "title": "Introduction to Cybersecurity",
                 "issuer": "CISCO",
                 "icon": "fa-solid fa-lock"
             }
@@ -284,4 +304,5 @@ const config = {
     }
 
 };
+
 
