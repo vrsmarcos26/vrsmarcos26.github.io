@@ -656,6 +656,7 @@ footer#contato {
     text-align: center;
     margin: 0 1rem; /* Espaçamento entre os slides */
     height: 100%;
+    text-decoration: none;
 }
 
 .cert-card i {
