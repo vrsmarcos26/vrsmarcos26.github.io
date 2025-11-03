@@ -83,24 +83,24 @@ const config = {
                 icon: "fa-solid fa-language" // Ícone do language
             },
             {
-                "title": "Segurança de Endpoint",
-                "issuer": "CISCO",
-                "icon": "fa-brands fa-shield-alt"
+                title: "Segurança de Endpoint",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-alt" // Ícone do segurança
             },
             {
-                "title": "Defesa de Rede",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-shield-alt"
+                title: "Defesa de Rede",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-alt" // Ícone do segurança
             },
             {
-                "title": "Percurso de Cibersegurança",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-shield-halved"
+                title: "Percurso de Cibersegurança",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-halved" // Ícone do segurança
             },
             {
-                "title": "Introdução à Cibersegurança",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-lock"
+                title: "Introdução à Cibersegurança",
+                issuer: "CISCO",
+                icon: "fa-solid fa-lock" // Ícone de cadeado
             }
         ],
 
@@ -202,50 +202,56 @@ const config = {
         certificationsTitle: "Courses & Certifications",
         certifications: [
             {
-                title: "Python for Data Science",
-                issuer: "Alura",
-                icon: "fa-solid fa-microchip"
-            },
-            {
                 title: "Essential Ethical Hacking",
                 issuer: "Udemy",
-                icon: "fa-solid fa-shield-halved"
+                icon: "fa-solid fa-shield-halved" // Security icon
             },
             {
-                title: "Network and Systems Pentesting",
-                issuer: "Solyd",
-                icon: "fa-solid fa-network-wired"
+                title: "Android Pentester - SYAP",
+                issuer: "Solyd Offensive Security",
+                icon: "fa-brands fa-android" // Android icon
             },
             {
-                title: "Web Development with React",
+                title: "Wireless Pentester - SYWP",
+                issuer: "Solyd Offensive Security",
+                icon: "fa-solid fa-wifi" // Wi-Fi icon
+            },
+            {
+                title: "Offensive Security Training",
                 issuer: "Alura",
-                icon: "fa-brands fa-react"
+                icon: "fa-solid fa-shield-halved" // Security icon
             },
             {
-                title: "Docker for Developers",
-                issuer: "Udemy",
-                icon: "fa-brands fa-docker"
+                title: "WordPress Training: Build Websites from Scratch",
+                issuer: "Alura",
+                icon: "fa-brands fa-wordpress" // WordPress icon
             },
             {
-                "title": "Endpoint Security",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-shield-halved"
+                title: "Specific English Course",
+                issuer: "Centro Interescolar de Línguas 01 de Brasília",
+                icon: "fa-solid fa-language" // Language icon
             },
             {
-                "title": "Network Defense",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-network-wired"
+                title: "Endpoint Security",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-alt" // Security icon
             },
             {
-                "title": "Cybersecurity Pathway",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-user-shield"
+                title: "Network Defense",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-alt" // Security icon
             },
             {
-                "title": "Introduction to Cybersecurity",
-                "issuer": "CISCO",
-                "icon": "fa-solid fa-lock"
+                title: "Cybersecurity Pathway",
+                issuer: "CISCO",
+                icon: "fa-solid fa-shield-halved" // Security icon
+            },
+            {
+                title: "Introduction to Cybersecurity",
+                issuer: "CISCO",
+                icon: "fa-solid fa-lock" // Lock icon
             }
+
         ],
 
         // --- Experience Section ---
@@ -304,5 +310,6 @@ const config = {
     }
 
 };
+
 
 
