@@ -144,7 +144,7 @@ const config = {
             {
                 role: "Estagiário de Tecnologia da Informação",
                 company: "Conselho Federal de Química",
-                period: "2023 - Atualmente",
+                period: "2024 - 2026",
                 description: "Atuando no suporte e na manutenção da infraestrutura de TI, contribuindo para a segurança e a eficiência dos sistemas do conselho."
             },
             {
@@ -377,6 +377,7 @@ const config = {
     }
 
 };
+
 
 
 
