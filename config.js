@@ -327,7 +327,7 @@ const config = {
             {
                 role: "Information Technology Intern",
                 company: "Federal Council of Chemistry",
-                period: "2023 - Present",
+                period: "2024 - 2026",
                 description: "Working on IT infrastructure support and maintenance, contributing to the security and efficiency of the council's systems."
             },
             {
@@ -377,6 +377,7 @@ const config = {
     }
 
 };
+
 
 
 
