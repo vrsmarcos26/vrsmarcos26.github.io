@@ -142,10 +142,16 @@ const config = {
         experienceTitle: "Experiência e Formação",
         experienceTimeline: [
             {
-                role: "Estagiário de Tecnologia da Informação",
-                company: "Conselho Federal de Química",
-                period: "2024 - 2026",
-                description: "Atuando no suporte e na manutenção da infraestrutura de TI, contribuindo para a segurança e a eficiência dos sistemas do conselho."
+                role: "Estagiário de Cibersegurança e Desenvolvimento",
+                company: "Guardsi Tecnologia",
+                period: "Abril 2026 - Presente",
+                description: "Foco em AppSec e DevSecOps. Implementação de autenticação segura (2FA) e sanitização de dados em APIs Django/FastAPI. Gerenciamento de containers seguros via Docker e configuração de monitoramento de incidentes em tempo real com Sentry."
+            },
+            {
+                role: "Estagiário de Infraestrutura e Segurança da Informação",
+                company: "Conselho Federal de Química (CFQ)",
+                period: "Maio 2024 - Fev 2026",
+                description: "Atuação direta no tratamento de incidentes de segurança (Wazuh, Firewall, IPS). Desenvolvimento de scripts em Python, Bash e PowerShell para automação de rotinas de infraestrutura e tarefas de segurança."
             },
             {
                 role: "Graduando em Ciência da Computação",
@@ -204,21 +210,20 @@ const config = {
         // --- Hero Section ---
         heroTitle: "Hi, I'm Marcos Vinícius",
         heroTypingSubtitles: [
-            "a Cybersecurity Professional.",
-            "a Full-Stack Developer.",
-            "a technology enthusiast.",
+            "a Web Penetration Tester.",
+            "a Purple Team Professional.",
+            "an AppSec Specialist.",
         ],
-        heroDescription: "Developer and security professional passionate about solving complex problems, creating robust solutions, and exploring the world of technology. From Brasília to the digital world.",
+        heroDescription: "Cybersecurity professional merging offensive web testing with AppSec and DevSecOps. From discovering vulnerabilities to building secure automation, I bridge the gap between attack and defense.",
         heroButtonContact: "Contact Me",
         heroButtonLinkedin: "LinkedIn",
 
         // --- About Me Section ---
         aboutTitle: "About Me",
         aboutDescription: `
-            I'm a Full-Stack Developer (front-end, back-end, and database) and a Cybersecurity professional (Purple Team).
-            I am extremely curious, communicative, enjoy complex problems and challenges, and work very well in a team.
-            My hobbies include gaming, movies, CTFs, Bug Bounties, and sports. Currently, I am pursuing a degree in Computer Science at UniCeub in Brasília.
-            I am always developing my skills and knowledge not only in college but also externally on platforms like Udemy, Alura, and Solyd.
+            I am a Web Penetration Tester and Purple Team professional. By combining my background in Full-Stack development and IT Infrastructure, I don't just exploit vulnerabilities—I understand their root causes in the code.
+            My hands-on experience ranges from incident handling (Wazuh, Firewalls) to implementing secure authentication and data sanitization in APIs (Django/FastAPI). 
+            I am driven by complex challenges, secure automation (Python/Bash), and continuously sharpening my offensive skills through CTFs, Bug Bounties, and continuous training to build robust digital defenses.
         `,
 
         // --- Skills Section ---
@@ -325,10 +330,16 @@ const config = {
         experienceTitle: "Experience & Education",
         experienceTimeline: [
             {
-                role: "Information Technology Intern",
-                company: "Federal Council of Chemistry",
-                period: "2024 - 2026",
-                description: "Working on IT infrastructure support and maintenance, contributing to the security and efficiency of the council's systems."
+                role: "Cybersecurity and Development Intern",
+                company: "Guardsi Tecnologia",
+                period: "Apr 2026 - Present",
+                description: "Focused on AppSec and DevSecOps. Implementing secure authentication (2FA) and data sanitization in Django/FastAPI APIs. Managing secure containers via Docker and configuring real-time incident monitoring with Sentry."
+            },
+            {
+                role: "Information Technology & Security Intern",
+                company: "Federal Council of Chemistry (CFQ)",
+                period: "May 2024 - Feb 2026",
+                description: "Direct involvement in incident response using Wazuh (Endpoint), IPS, and Firewalls. Developed Python, Bash, and PowerShell scripts to automate infrastructure routines and security tasks."
             },
             {
                 role: "Bachelor's Degree in Computer Science",
