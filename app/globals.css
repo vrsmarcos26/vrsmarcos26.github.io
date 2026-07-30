@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+:root {
+  --cor-fundo: #FFFFFF;
+  --cor-texto: #0B0C10;
+  --cor-primaria: #2673D5; /* Azul no Modo Claro */
+  --cor-secundaria: #6c757d;
+  --cor-hover: #1b539a;
+  --cor-card: #f8f9fa;
+  --cor-borda: #e9ecef;
+  --cor-destaque-gradiente: #3b82f6; /* Azul-500 para gradientes no Light Mode */
+}
+
+[data-theme="dark"] {
+  --cor-fundo: #0d1117;
+  --cor-texto: #c9d1d9;
+  --cor-primaria: #38a169; /* Verde Cibernético no Modo Escuro (#38a169) */
+  --cor-secundaria: #8b949e;
+  --cor-hover: #48bb78;
+  --cor-card: #161b22;
+  --cor-borda: #21262d;
+  --cor-destaque-gradiente: #10b981; /* Esmeralda/Verde-500 para gradientes no Dark Mode */
+}
+
+body {
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Adicione no final de app/globals.css */
+@keyframes slideFade {
+  0% {
+    opacity: 0;
+    transform: translateX(25px) scale(0.98);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+.animate-slide-fade {
+  animation: slideFade 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Animação para o Marquee Infinito de Certificações */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee-infinite {
+  display: flex;
+  width: max-content;
+  animation: marquee 35s linear infinite;
+}
+
+/* Pausa a animação suavemente quando o mouse passa por cima */
+.animate-marquee-infinite:hover {
+  animation-play-state: paused;
+}
